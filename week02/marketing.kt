@@ -4,4 +4,6 @@ fun main() {
    
          println("Adopt a Dog Today!") 
     }else { 
-          println("Buy Cat Food At 20% Off")}
+          println("Buy Cat Food At 20% Off")
+    }
+}
